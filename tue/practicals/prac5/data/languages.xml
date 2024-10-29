@@ -1,0 +1,9 @@
+<doc summary="Cool programming languages">
+    <greeting>Hi Here!</greeting>
+    <programming>
+        <language>Python</language>
+        <language>Java</language>
+        <language>R</language>
+        <language>CPP</language>
+    </programming>
+</doc>
